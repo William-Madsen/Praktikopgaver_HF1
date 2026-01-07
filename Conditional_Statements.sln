@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_sorted_asscending", "if_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Positive_negative_or_zero", "Positive_negative_or_zero\Positive_negative_or_zero.csproj", "{1AC8A639-60A9-44AF-ADB0-554F3AE58661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap_year", "Leap_year\Leap_year.csproj", "{43771899-5D5B-4F28-8DFB-FCB4C1387A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic\Basic.csproj", "{4469352C-421D-4686-AB4A-976AC280C547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{1AC8A639-60A9-44AF-ADB0-554F3AE58661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC8A639-60A9-44AF-ADB0-554F3AE58661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC8A639-60A9-44AF-ADB0-554F3AE58661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43771899-5D5B-4F28-8DFB-FCB4C1387A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43771899-5D5B-4F28-8DFB-FCB4C1387A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43771899-5D5B-4F28-8DFB-FCB4C1387A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43771899-5D5B-4F28-8DFB-FCB4C1387A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4469352C-421D-4686-AB4A-976AC280C547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4469352C-421D-4686-AB4A-976AC280C547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4469352C-421D-4686-AB4A-976AC280C547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4469352C-421D-4686-AB4A-976AC280C547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
