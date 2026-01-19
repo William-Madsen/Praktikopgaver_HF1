@@ -52,7 +52,7 @@ class MozartValse
     }
 
     static void PlaySound(string path)
-    { //Vriker kun på windows (.net 8.0)
+    { //Vriker kun på windows (.net 8.0) 
         
         SoundPlayer player = new SoundPlayer(path);
         player.PlaySync();
